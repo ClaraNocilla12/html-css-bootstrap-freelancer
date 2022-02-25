@@ -5,3 +5,9 @@
 .bg-avatar{
     background-color: #19BC9B;
 }
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
