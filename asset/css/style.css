@@ -11,3 +11,8 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+#submit-button{
+    background-color: #19BC9B;
+    border-color:#19BC9B;
+}
