@@ -1,4 +1,11 @@
-.bg-top{
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.bg-me-dark{
     background-color: #2C3F4F;
 }
 
@@ -20,6 +27,7 @@ img {
 .bg-reference{
     background-color: #3B546D;
 }
+
 
 
 
