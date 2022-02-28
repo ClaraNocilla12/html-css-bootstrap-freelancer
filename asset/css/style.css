@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    overflow-x: hidden;
 }
 
 
@@ -13,11 +14,6 @@
     background-color: #19BC9B;
 }
 
-img {
-  display: block;
-  width: 100%;
-  height: auto;
-}
 
 #submit-button{
     background-color: #19BC9B;
@@ -28,6 +24,20 @@ img {
     background-color: #3B546D;
 }
 
+
+
+.line{
+    height: 2px;
+}
+
+.form-control{
+    border: hidden;
+    border-bottom: 1px solid lightgrey;
+}
+
+#my-c-green{
+    color:#19BC9B;
+}
 
 
 
